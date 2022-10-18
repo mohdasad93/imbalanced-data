@@ -27,7 +27,8 @@ Don't use accuracy score as a metric with imbalanced datasets (will be usually h
 
 The dataset is publicly available in the UCI Machine Learning Repository, which can be retrieved from http://archive.ics.uci.edu/ml/datasets/Bank+Marketing#.
 
-Data Analysis & Report
+# Data Analysis 
+
 Please see codes in the file Bank Telemarketing Performance Analysis.ipynb.
 
 P.S. This file is large and does not support previewing, so you may have to download it first.
