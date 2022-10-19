@@ -30,5 +30,3 @@ The dataset is publicly available in the UCI Machine Learning Repository, which 
 # Data Analysis 
 
 Please see codes in the file Bank Telemarketing Performance Analysis.ipynb.
-
-P.S. This file is large and does not support previewing, so you may have to download it first.
