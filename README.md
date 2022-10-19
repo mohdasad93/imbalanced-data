@@ -5,7 +5,7 @@ This project examines the direct phone call marketing efforts used by a Portugue
 
 In order for the bank to concentrate its marketing efforts on the most receptive consumers, the key goal is to predict customers' responses to upcoming marketing initiatives using classification-based models. The models would assist the bank in securing deposits more effectively, saving on marketing expenses, and cutting back on annoying client adverts.
 
-# Our Goal:
+# Goal:
 
 Understand the little distribution of the "little" data that was provided to us.
 
